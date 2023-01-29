@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(skyblue,pink);
+    
+}
+h1 {
+    color: darkorchid;
+    
+}
+#myCanvas {
+    border-width:10px;
+    border-style: ridge;
+    border-color: white;
+    background-color: white;
+}
